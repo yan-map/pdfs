@@ -124,6 +124,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.99456669529314,
+          43.343411164957985
+        ]
+      },
+      "properties": {
+        "text": "Раз раз",
+        "id": "comment-b6333b53-ebd7-4115-a45d-fd29292927a7",
+        "popupOffset": [
+          76.99403479395284,
+          43.34312995139905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
