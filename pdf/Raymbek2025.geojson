@@ -124,30 +124,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.9951207326074,
-          43.34293109847843
-        ]
-      },
-      "properties": {
-        "text": "раз два",
-        "id": "comment-002df126-f1e6-4205-8507-838205fff6f5",
-        "popupOffset": [
-          76.99429543881365,
-          43.34317541553645
-        ],
-        "replies": [
-          {
-            "id": "reply-1753468055824",
-            "text": "три четыре"
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
