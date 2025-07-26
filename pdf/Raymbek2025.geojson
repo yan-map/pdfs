@@ -124,6 +124,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00254690325619,
+          43.34497018314818
+        ]
+      },
+      "properties": {
+        "text": "Поправить разворот, не нанесли",
+        "id": "comment-7ec41404-7982-4d30-86e0-0d13450e1760",
+        "popupOffset": [
+          77.00257972673813,
+          43.34539507406171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
