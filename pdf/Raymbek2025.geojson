@@ -214,6 +214,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.903909601686,
+          43.20397561467388
+        ]
+      },
+      "properties": {
+        "text": "fgfgn",
+        "id": "comment-7bbdde1b-3e09-433d-8e15-cb985e00ed61",
+        "popupOffset": [
+          76.9027347941377,
+          43.204257151132026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
