@@ -108,6 +108,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.903246039213,
+          43.210450193316575
+        ]
+      },
+      "properties": {
+        "text": "Плита",
+        "id": "comment-cac9739c-59ba-450d-92eb-faefb37a3384",
+        "popupOffset": [
+          76.90391125369632,
+          43.210611672378235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
