@@ -144,6 +144,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90337208945067,
+          43.21099076938418
+        ]
+      },
+      "properties": {
+        "text": "По сущу",
+        "id": "comment-45e311a2-4cee-4c2e-ad54-034e5b26cfd2",
+        "popupOffset": [
+          76.90387644285687,
+          43.21116980336069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
