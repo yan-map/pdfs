@@ -360,6 +360,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90047293929149,
+          43.23192896362562
+        ]
+      },
+      "properties": {
+        "text": "Вело по кромке арыка, полосы по 3м",
+        "id": "comment-d0c2e956-71bb-4eda-97af-9f36375e7891",
+        "popupOffset": [
+          76.90100771625816,
+          43.23203660134294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
