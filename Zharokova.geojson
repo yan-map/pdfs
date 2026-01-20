@@ -486,6 +486,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89995143982651,
+          43.23610915318358
+        ]
+      },
+      "properties": {
+        "text": "ООТ по сущу",
+        "id": "comment-fd92d5ce-c394-4435-84ed-fd54def62521",
+        "popupOffset": [
+          76.90045536447963,
+          43.23640350016737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
