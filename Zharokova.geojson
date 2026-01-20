@@ -58,6 +58,38 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90436183682255,
+          43.20707539452306
+        ]
+      },
+      "properties": {
+        "text": "Оот перенос",
+        "id": "comment-f60e27d8-58be-4dac-8894-756aea541b22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90345741713844,
+          43.20849493924402
+        ]
+      },
+      "properties": {
+        "text": "Рассмотреть сужение медианы и сдвигивело правее от арыка",
+        "id": "comment-6c792471-4c01-43c0-bc57-26c5733d227b",
+        "popupOffset": [
+          76.90447611602139,
+          43.208723157402176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
