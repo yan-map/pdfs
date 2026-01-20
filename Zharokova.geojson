@@ -234,6 +234,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90290569205405,
+          43.216692846212396
+        ]
+      },
+      "properties": {
+        "text": "БЦ - увязаться с проектом",
+        "id": "comment-20b489e7-432b-4fec-a671-ac5e29f3b8ee",
+        "popupOffset": [
+          76.90370570376263,
+          43.21697780664786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
