@@ -252,6 +252,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90190574663399,
+          43.21908495804507
+        ]
+      },
+      "properties": {
+        "text": "Прижать сущ вело к пч",
+        "id": "comment-2b6a90d5-23e4-4ce4-b889-9db3903350c1",
+        "popupOffset": [
+          76.90147863689862,
+          43.21884225495998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
