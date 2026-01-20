@@ -180,6 +180,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90253046800171,
+          43.2148669677359
+        ]
+      },
+      "properties": {
+        "text": "Смещение в вело (мб в уровень с пч)",
+        "id": "comment-b884fc41-0db2-4ec9-af5a-35090eb73f1c",
+        "popupOffset": [
+          76.9019788864752,
+          43.215017830334574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
