@@ -306,6 +306,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90126689132427,
+          43.225949285368614
+        ]
+      },
+      "properties": {
+        "text": "Перенос столба",
+        "id": "comment-b66ea627-0304-4d2c-acd7-6281320cb715",
+        "popupOffset": [
+          76.90158613110259,
+          43.226008691717226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90124747751116,
+          43.22607479200903
+        ]
+      },
+      "properties": {
+        "text": "Вырубка",
+        "id": "comment-15f652d2-a7ab-42d2-9a11-a2aa0b70a89f",
+        "popupOffset": [
+          76.9015487800454,
+          43.22618474462212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
