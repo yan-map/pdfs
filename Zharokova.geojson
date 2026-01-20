@@ -396,6 +396,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90075650478695,
+          43.229273426488675
+        ]
+      },
+      "properties": {
+        "text": "СО и пешик",
+        "id": "comment-ceab478c-f453-4dfe-9037-5e7e0ce7a39f",
+        "popupOffset": [
+          76.9012731496826,
+          43.22947432268057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
