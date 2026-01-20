@@ -1,4 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90393315993367,
+          43.20424640133294
+        ]
+      },
+      "properties": {
+        "text": "Переход в велополосу",
+        "id": "comment-f440ab48-2d3c-4901-a0b6-76258d3b7c6a",
+        "popupOffset": [
+          76.90378412553889,
+          43.204165630407005
+        ]
+      }
+    }
+  ]
 }
