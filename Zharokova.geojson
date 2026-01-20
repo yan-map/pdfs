@@ -342,6 +342,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90094264667584,
+          43.22834851414652
+        ]
+      },
+      "properties": {
+        "text": "Изогнуть чуток вело на остановочном фронте",
+        "id": "comment-138eda2a-408c-45e5-bec9-2de62fcf3dfc",
+        "popupOffset": [
+          76.90129274596944,
+          43.22847208946877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
