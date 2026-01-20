@@ -216,6 +216,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90239354582155,
+          43.21622770746876
+        ]
+      },
+      "properties": {
+        "text": "Подвинуть вело из-за накрытия",
+        "id": "comment-50ce5696-cce5-4fb2-85e4-83f95f3947c3",
+        "popupOffset": [
+          76.90197337393766,
+          43.216155204434926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
