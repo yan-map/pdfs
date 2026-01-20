@@ -162,6 +162,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90258153975844,
+          43.21424117384811
+        ]
+      },
+      "properties": {
+        "text": "Сдвинуть вело ближе к арыку, увеличить площадку",
+        "id": "comment-fe0f2627-b60a-4e37-86d1-2632b5db40bd",
+        "popupOffset": [
+          76.90209672672745,
+          43.214339689432904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
