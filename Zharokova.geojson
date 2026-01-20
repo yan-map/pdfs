@@ -378,6 +378,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90025934047674,
+          43.23183347391742
+        ]
+      },
+      "properties": {
+        "text": "Либо сместить створ",
+        "id": "comment-693d1496-b2e1-436f-be92-a97cecefbd9d",
+        "popupOffset": [
+          76.89979688523852,
+          43.23167596007326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
