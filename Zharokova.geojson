@@ -90,6 +90,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90312780912956,
+          43.21003050360363
+        ]
+      },
+      "properties": {
+        "text": "Борт по корням",
+        "id": "comment-e6b90895-0a9e-4df6-9eda-f1e7c95b829c",
+        "popupOffset": [
+          76.90289916416407,
+          43.21000081860373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
