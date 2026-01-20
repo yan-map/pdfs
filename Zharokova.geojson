@@ -126,6 +126,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90330134956389,
+          43.21036610867583
+        ]
+      },
+      "properties": {
+        "text": "Велопереезд",
+        "id": "comment-a79ec377-c83e-4b91-b4c4-ca267c7bb99b",
+        "popupOffset": [
+          76.90475984239129,
+          43.21069015595799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
