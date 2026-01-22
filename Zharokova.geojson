@@ -775,6 +775,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89814588941522,
+          43.23159648501775
+        ]
+      },
+      "properties": {
+        "text": "Длинное ухо добавить",
+        "id": "comment-e5579740-39fc-4ec0-9e98-7e46b688802b",
+        "popupOffset": [
+          76.89829651508956,
+          43.23175453000471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
