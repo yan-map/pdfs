@@ -793,6 +793,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89565981836137,
+          43.230200209346066
+        ]
+      },
+      "properties": {
+        "text": "Добавить вело до Айманова/Радостовца",
+        "id": "comment-c351daee-4d99-4591-b47f-cc770337a0bd",
+        "popupOffset": [
+          76.89603435725883,
+          43.22929916316292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
