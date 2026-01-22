@@ -757,6 +757,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89957558445064,
+          43.232015951782614
+        ]
+      },
+      "properties": {
+        "text": "Расширить тротуар за счет ряда парковок",
+        "id": "comment-0187312b-156c-47ac-993a-48e8638a81f2",
+        "popupOffset": [
+          76.89957585114297,
+          43.23217626363666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
