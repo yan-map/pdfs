@@ -540,6 +540,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91385317136366,
+          43.236224715351966
+        ]
+      },
+      "properties": {
+        "text": "Велополосу, створ сместить",
+        "id": "comment-4ecae473-113d-40a9-a865-0555c276adfb",
+        "popupOffset": [
+          76.91343047796835,
+          43.23617181029542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91365148824781,
+          43.23697697584234
+        ]
+      },
+      "properties": {
+        "text": "Обузить до одной, геометрию не по касательной, а под 90",
+        "id": "comment-130123f6-5afe-42a9-96b9-fb6ea1c592db",
+        "popupOffset": [
+          76.91579857229101,
+          43.23744384072896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
