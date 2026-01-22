@@ -594,6 +594,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91334563576402,
+          43.23697158616562
+        ]
+      },
+      "properties": {
+        "text": "Пешик подвинуть, подумать над пандусом",
+        "id": "comment-5b8a1a07-e81a-4309-a379-77a3661b49e8",
+        "popupOffset": [
+          76.91287931814605,
+          43.23646202859584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
