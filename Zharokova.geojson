@@ -630,6 +630,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91071300384675,
+          43.23590851511062
+        ]
+      },
+      "properties": {
+        "text": "Вело в правой полосе",
+        "id": "comment-21ed8ad6-6cb1-4284-b546-a68a0bb4af95",
+        "popupOffset": [
+          76.91118363514073,
+          43.2357449752883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91033189903112,
+          43.23568366945145
+        ]
+      },
+      "properties": {
+        "text": "Рассмотреть сужение тротуара для вело и вп",
+        "id": "comment-6e87380a-707e-487c-982f-b46336ddc202",
+        "popupOffset": [
+          76.9106505372306,
+          43.23511638144308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
