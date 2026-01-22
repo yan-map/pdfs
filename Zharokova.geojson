@@ -847,6 +847,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88274599219335,
+          43.22148226587885
+        ]
+      },
+      "properties": {
+        "text": "Подумать над левым поворотом вместо разделителя",
+        "id": "comment-f7e485bd-61f5-40d5-8a70-00ba85adcc1d",
+        "popupOffset": [
+          76.8822993352731,
+          43.22174948880888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88307147509562,
+          43.22166378337013
+        ]
+      },
+      "properties": {
+        "text": "Тогда пешик перенести через перекресток",
+        "id": "comment-6e091313-97ac-49b9-9111-d22b09fcc1d9",
+        "popupOffset": [
+          76.88393730110027,
+          43.22126660336332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
