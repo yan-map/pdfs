@@ -576,6 +576,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91398923387163,
+          43.237402509846476
+        ]
+      },
+      "properties": {
+        "text": "Пешик",
+        "id": "comment-b3cd2b46-e9f1-402f-bdda-5dc9ff8d7d84",
+        "popupOffset": [
+          76.91503795918675,
+          43.23788908239959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
