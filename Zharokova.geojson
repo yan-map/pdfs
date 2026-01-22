@@ -684,6 +684,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90972780954655,
+          43.235762757931695
+        ]
+      },
+      "properties": {
+        "text": "Учесть съезд разворотный",
+        "id": "comment-d0d1403f-967b-40a8-9be9-9756303f634c",
+        "popupOffset": [
+          76.90985145101189,
+          43.236499746549356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
