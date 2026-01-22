@@ -702,6 +702,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90908825826068,
+          43.23552513440768
+        ]
+      },
+      "properties": {
+        "text": "Сохранить створ постараться",
+        "id": "comment-42ded8aa-4ed2-4afc-a52f-b6627ec04550",
+        "popupOffset": [
+          76.90880346310922,
+          43.23557296493425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90530742442144,
+          43.234036001441126
+        ]
+      },
+      "properties": {
+        "text": "Здесь троллейбусный столб, надо отметить",
+        "id": "comment-254f60f1-7930-4082-aac5-9f3edf815cd2",
+        "popupOffset": [
+          76.90564106310171,
+          43.23368088608808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
