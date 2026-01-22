@@ -811,6 +811,20 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89007392789273,
+          43.22664581830625
+        ]
+      },
+      "properties": {
+        "text": "Парковку зачем убрали?",
+        "id": "comment-71c8a130-a679-4e5e-b10c-1a9851f2566a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
