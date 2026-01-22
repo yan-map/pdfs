@@ -739,6 +739,24 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90100384375648,
+          43.23232945606449
+        ]
+      },
+      "properties": {
+        "text": "Эту остановку на сущпол скорее всего",
+        "id": "comment-eed9e21b-1734-441a-baef-019d3e1c1529",
+        "popupOffset": [
+          76.90146345759848,
+          43.233297418040365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
