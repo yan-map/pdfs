@@ -1149,6 +1149,42 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90271479904129,
+          43.21321729968105
+        ]
+      },
+      "properties": {
+        "text": "Расширить по сущу",
+        "id": "comment-1aa693fa-63ea-450a-836e-11fb982a5620",
+        "popupOffset": [
+          76.90248524139747,
+          43.213304707232595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9022352055037,
+          43.21938248339569
+        ]
+      },
+      "properties": {
+        "text": "Доп вариант с вело у ПЧ",
+        "id": "comment-6c1887ce-f96c-4db8-825c-4e9447499fd9",
+        "popupOffset": [
+          76.90324832777321,
+          43.2194523437648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
