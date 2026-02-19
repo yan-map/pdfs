@@ -1392,6 +1392,44 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.902514472892,
+          43.216239341300536
+        ]
+      },
+      "properties": {
+        "text": "По левому повороту - дать комментарий",
+        "id": "comment-0fdb99cb-a7e0-4cd9-92ad-825874be46b3",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.90337230235161,
+          43.21647516931583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90207893085415,
+          43.22069037200836
+        ]
+      },
+      "properties": {
+        "text": "Учесть ворота в вело",
+        "id": "comment-2becbc10-38c3-479e-8288-911f7f5354f3",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.90232213812254,
+          43.22080736791801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
