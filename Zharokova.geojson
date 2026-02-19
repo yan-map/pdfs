@@ -1202,6 +1202,44 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89437619587125,
+          43.1969955037074
+        ]
+      },
+      "properties": {
+        "text": "Приоритет модель",
+        "id": "comment-cfaaec07-5bd4-4757-a866-41dd62ed1db2",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.89368699519736,
+          43.196785782684316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89376028325853,
+          43.20755158569855
+        ]
+      },
+      "properties": {
+        "text": "Где есть возможность - радиус 8",
+        "id": "comment-da24f626-d451-4ec2-b3eb-8cb1476306e9",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.8935929597119,
+          43.20770959077734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
