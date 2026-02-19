@@ -1449,6 +1449,40 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89821896081088,
+          43.248205293677614
+        ]
+      },
+      "properties": {
+        "text": "В камень",
+        "id": "comment-40d3be6f-e08b-4ca7-90fb-c99410393702",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.89860010867363,
+          43.24842379901074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89790180913712,
+          43.2512196254859
+        ]
+      },
+      "properties": {
+        "text": "Стрелу учесть, средняя - лево+право, рассмотреть",
+        "id": "comment-29bb3335-bb9b-4ba1-b854-3f9db032a851",
+        "date": "19-02-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
