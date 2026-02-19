@@ -301,24 +301,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.90025934047674,
-          43.23183347391742
-        ]
-      },
-      "properties": {
-        "text": "Либо сместить створ",
-        "id": "comment-693d1496-b2e1-436f-be92-a97cecefbd9d",
-        "popupOffset": [
-          76.89979688523852,
-          43.23167596007326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           76.90075650478695,
           43.229273426488675
         ]
@@ -705,25 +687,6 @@
         "popupOffset": [
           76.89081242944013,
           43.22595395956884
-        ],
-        "resolved": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.8879714932367,
-          43.22483394915059
-        ]
-      },
-      "properties": {
-        "text": "Подумать мб так разворот давать?",
-        "id": "comment-1e3edae0-c965-4133-8e41-20b3703446a8",
-        "popupOffset": [
-          76.88856740224065,
-          43.225085922659616
         ],
         "resolved": true
       }
