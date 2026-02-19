@@ -1240,6 +1240,158 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89394165246961,
+          43.20708125882558
+        ]
+      },
+      "properties": {
+        "text": "Накопитель увеличить",
+        "id": "comment-aaa5ce0b-8779-4308-887b-2e316b77704c",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.8943126731628,
+          43.2069579899275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.893635238738,
+          43.209301380148986
+        ]
+      },
+      "properties": {
+        "text": "Добавить буфер",
+        "id": "comment-ae20f669-cc7d-4588-9b5e-e74d9f28d2ce",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.89341584756858,
+          43.209231486679585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8940587633773,
+          43.20753896493258
+        ]
+      },
+      "properties": {
+        "text": "Выезды с дублера учесть",
+        "id": "comment-9e801281-6f94-40f1-bbe1-b6bf62d1d843",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.89415614096964,
+          43.207678232437615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89384865697821,
+          43.207464821789415
+        ]
+      },
+      "properties": {
+        "text": "Приоритет модель: 2 фазы/3 фазы показать наглядно",
+        "id": "comment-571cabf1-995e-46bc-b5f4-ac8224217ec3",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.89355677046166,
+          43.20777227375834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89016307830633,
+          43.23560701470484
+        ]
+      },
+      "properties": {
+        "text": "Накопители побольше, буфер поменьше",
+        "id": "comment-8177e1af-4228-4606-9b76-985e112b4e07",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.88955987815262,
+          43.235421882418336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89011201567058,
+          43.23528548895317
+        ]
+      },
+      "properties": {
+        "text": "Понижение убрать",
+        "id": "comment-007e1673-c06e-486b-8b43-e12eca047905",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.88988183722302,
+          43.23509958216525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88951692462416,
+          43.240530195646585
+        ]
+      },
+      "properties": {
+        "text": "Пешик перебросить",
+        "id": "comment-92115de3-90f6-4c81-8714-5c09b3b2b474",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.88917201318071,
+          43.2404064041541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88910182840789,
+          43.24355543397593
+        ]
+      },
+      "properties": {
+        "text": "Убираем левый",
+        "id": "comment-24ee4f07-a4b2-4be6-bd4e-9e97f96fa305",
+        "date": "19-02-26",
+        "popupOffset": [
+          76.88877439955814,
+          43.243623388977625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
